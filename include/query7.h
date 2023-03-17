@@ -1,0 +1,1 @@
+void escreve_file_query7(char *x, char *city, R_data *r_data, Drivers *drivers, int linha);
